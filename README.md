@@ -11,5 +11,6 @@
 
 # Descripcion
 
-- Endpoint hecho en .Net Core 3 configurado con politica CORS, tiene registrado la URL localhost:4200 para poder recibir requests desde este cliente.
+- Endpoint hecho en .Net Core 3 configurado con politica CORS.
+- Tiene registrado la URL localhost:4200 para poder recibir requests desde el lado del cliente.
 
