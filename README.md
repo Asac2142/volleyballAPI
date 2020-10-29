@@ -7,7 +7,7 @@
 
 ## Uso
 
-- Abrir la solucion en Visual Studio y ejecutarlo
+- Abrir la solucion (.sln) en Visual Studio y ejecutarlo.
 
 ## Descripcion
 
