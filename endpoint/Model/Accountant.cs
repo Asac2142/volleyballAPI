@@ -7,8 +7,8 @@ namespace endpoint.Model
 {
     public class Accountant
     {
-        public int scoreTeam1 { get; set; }
+        public int team1 { get; set; }
 
-        public int scoreTeam2 { get; set; }
+        public int team2 { get; set; }
     }
 }

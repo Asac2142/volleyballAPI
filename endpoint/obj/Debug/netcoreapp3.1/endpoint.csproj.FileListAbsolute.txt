@@ -17,3 +17,4 @@ C:\Users\Cacodemon\source\repos\endpoint\endpoint\obj\Debug\netcoreapp3.1\static
 C:\Users\Cacodemon\source\repos\endpoint\endpoint\obj\Debug\netcoreapp3.1\endpoint.dll
 C:\Users\Cacodemon\source\repos\endpoint\endpoint\obj\Debug\netcoreapp3.1\endpoint.pdb
 C:\Users\Cacodemon\source\repos\endpoint\endpoint\obj\Debug\netcoreapp3.1\endpoint.genruntimeconfig.cache
+C:\Users\Cacodemon\source\repos\endpoint\endpoint\obj\Debug\netcoreapp3.1\endpoint.csprojAssemblyReference.cache
