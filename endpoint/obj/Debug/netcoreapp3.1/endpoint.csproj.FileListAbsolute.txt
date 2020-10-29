@@ -7,7 +7,6 @@ C:\Users\Cacodemon\source\repos\endpoint\endpoint\bin\Debug\netcoreapp3.1\endpoi
 C:\Users\Cacodemon\source\repos\endpoint\endpoint\bin\Debug\netcoreapp3.1\endpoint.runtimeconfig.dev.json
 C:\Users\Cacodemon\source\repos\endpoint\endpoint\bin\Debug\netcoreapp3.1\endpoint.dll
 C:\Users\Cacodemon\source\repos\endpoint\endpoint\bin\Debug\netcoreapp3.1\endpoint.pdb
-C:\Users\Cacodemon\source\repos\endpoint\endpoint\obj\Debug\netcoreapp3.1\endpoint.csprojAssemblyReference.cache
 C:\Users\Cacodemon\source\repos\endpoint\endpoint\obj\Debug\netcoreapp3.1\endpoint.AssemblyInfoInputs.cache
 C:\Users\Cacodemon\source\repos\endpoint\endpoint\obj\Debug\netcoreapp3.1\endpoint.AssemblyInfo.cs
 C:\Users\Cacodemon\source\repos\endpoint\endpoint\obj\Debug\netcoreapp3.1\endpoint.csproj.CoreCompileInputs.cache
